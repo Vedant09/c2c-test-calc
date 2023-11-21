@@ -12,7 +12,7 @@ Try It
 [ahfarmer.github.io/calculator](https://ahfarmer.github.io/calculator/)
 
 
-Installtest
+Install
 ---
 
 `npm install`
