@@ -13,7 +13,6 @@ Try It
 
 
 Install
-test
 ---
 
 `npm install`
