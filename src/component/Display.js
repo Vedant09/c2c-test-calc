@@ -11,6 +11,8 @@ export default class Display extends React.Component {
   render() {
     return (
       <div className="component-display">
+      1
+      2
         <div>{this.props.value}</div>
       </div>
     );
