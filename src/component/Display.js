@@ -12,7 +12,6 @@ export default class Display extends React.Component {
     return (
       <div className="component-display">
       1
-      2
         <div>{this.props.value}</div>
       </div>
     );
